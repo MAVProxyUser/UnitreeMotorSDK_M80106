@@ -9,6 +9,7 @@ Ubuntu 18.04 recommended, not a virtual machine.
 `git clone https://github.com/OnlineMC/UnitreeMotorSDK_M80106.git`  
 `cd UnitreeMotorSDK_M80106`  
 `mkdir build`  
+`cd build`  
 `cmake ..`  
 `make`  
 
