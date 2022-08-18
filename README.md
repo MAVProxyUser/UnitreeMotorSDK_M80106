@@ -7,7 +7,7 @@ Ubuntu 18.04 recommended, not a virtual machine.
 `sudo apt install git build-essential cmake` 
 ## SDK using example  
 `git clone https://github.com/OnlineMC/UnitreeMotorSDK_M80106.git`  
-`cd UnitreeMotorSDK_M80106`
+`cd UnitreeMotorSDK_M80106`  
 `mkdir build`  
 `cmake ..`  
 `make`  
